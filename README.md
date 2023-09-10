@@ -3,7 +3,7 @@
 https://danielalbuquerq.github.io/The_Simon_Game
 
 ## Project using jQuery and Bootstrap
-## Project from a course and I added Bootstrap in this project to be mobile-first.
+## Project from a course. In this project I added many CSS styles, I created a line background image and I inserted Bootstrap in this project to be mobile-first.
 
 
 
