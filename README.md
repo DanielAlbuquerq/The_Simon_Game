@@ -1,5 +1,7 @@
 # The_Simon_Game
 
+https://danielalbuquerq.github.io/The_Simon_Game
+
 ## Project using jQuery and Bootstrap
 ## Project from a course and I added Bootstrap in this project to be mobile-first.
 
