@@ -2,7 +2,7 @@
 
 https://danielalbuquerq.github.io/The_Simon_Game
 
-## Project using jQuery and Bootstrap
+## The objective of this project was to make a combination of Logic programming, jQuery, and Bootstrap.
 ## Project from a course. In this project I added many CSS styles, I created a line background image and I inserted Bootstrap in this project to be mobile-first.
 
 
